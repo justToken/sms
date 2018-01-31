@@ -42,7 +42,7 @@
                                 <th>请求手机号码</th>
                                 <th>请求内容</th>
                                 <th>响应内容</th>
-                                <th>操作</th>
+                                <th>发送时间</th>
                             </tr>
                             </thead>
                         </table>

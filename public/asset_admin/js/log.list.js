@@ -38,9 +38,9 @@ $(document).ready(function () {
         "columns": [
             {"data": "id","name" : "id"},
             {"data": "sender","name" : "sender","orderable" : false},
-            {"data": "jfdy","name": "jfdy","orderable" : false},
             {"data": "response_content","name": "response_content","orderable" : false},
             {"data": "request_content","name": "request_content","orderable" : false},
+            {"data": "create_at","name": "create_at","orderable" : false},
         ]
     });
 
