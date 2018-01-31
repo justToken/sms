@@ -5,3 +5,7 @@ Homestead.json
 .env
 /.idea
 sms.sql
+/storage/app
+/storage/debugbar
+/storage/framework
+/storage/logs
